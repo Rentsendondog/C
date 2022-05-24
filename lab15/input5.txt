@@ -1,0 +1,21 @@
+-----------1 - r oyutan--------
+
+Ner:    bat
+Ovog:   bold
+Id:     123
+Golch:  3.50
+
+-----------2 - r oyutan--------
+
+Ner:    Oyu
+Ovog:   Svh
+Id:     345
+Golch:  3.40
+
+-----------3 - r oyutan--------
+
+Ner:    Baldan
+Ovog:   Bayr
+Id:     567
+Golch:  3.70
+
